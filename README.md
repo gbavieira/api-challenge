@@ -7,7 +7,7 @@ This repository was created to showcase my project for the 4th Edition of Alura 
 
 This is a challenge to simulate the routine of a backend developer working a company where the UX team requested an application for a family budget control. This budget control needs to be able to register all income and expenses from a family. It needs routers for the income and expenses following the clean REST coding and have some validations according to the businesses rules. It will be stored in a database and have authentications.
 
-## Tools and Development
+### Tools and Development
 
 For this project, Alura creates a Trello Kanban with some steps of a procedure in where the developer must follow to report weekly. The project is divided in 4 weeks, where the first three are for developing and the last week is meant to be a testing one.
 
@@ -22,6 +22,6 @@ The database choice was free, so I chose to work with [PostgreSQL](https://www.p
 
 To create the API, I have settled the serializer with some businesses rules and used the DRF viewsets.ModelViewSet to easily crete the entry fields for the methods.
 
-## Next Steps
+### Next Steps
 
 Waiting for second week insctructions.
