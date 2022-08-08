@@ -3,7 +3,7 @@
 
 This repository was created to showcase my project for the 4th Edition of Alura Back-End Challenge.
 
-# About the Challenge
+## About the Challenge
 
 This is a challenge to simulate the routine of a backend developer working a company where the UX team requested an application for a family budget control. This budget control needs to be able to register all income and expenses from a family. It needs routers for the income and expenses following the clean REST coding and have some validations according to the businesses rules. It will be stored in a database and have authentications.
 
